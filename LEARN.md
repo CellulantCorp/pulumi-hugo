@@ -1,4 +1,4 @@
-# Learn Pulumi
+# Learn Pulumi cell
 
 So you're interested in writing some Learn Pulumi content? Great! Follow these
 steps to make it happen.
